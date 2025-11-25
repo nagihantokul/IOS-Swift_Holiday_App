@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Halloween",
+    "image": "halloween",
+    "about": "Halloween takes place on the last night of October. People decorate their homes with spooky lights, glowing pumpkins, and hanging ghosts. Kids dress up and walk door-to-door saying 'trick or treat!' to collect candy. It’s a playful celebration filled with surprises and a fun little scare.",
+    "activities": [
+      {
+        "id": 101,
+        "title": "Ghost Lantern Crafts",
+        "details": "Draw silly ghost faces on white paper cups, place a small LED light inside, and line them up along a window or table for a spooky glow! 👻",
+        "image": "ghost"
+      },
+      {
+        "id": 102,
+        "title": "Monster Dance Party",
+        "details": "Play Halloween music and dance like a monster, witch, or zombie! Take turns choosing a spooky move everyone must copy.",
+        "image": "monsterdance"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Christmas",
+    "image": "christmas",
+    "about": "Christmas arrives each December with twinkling lights, warm drinks, and family gatherings. People enjoy decorating their homes, exchanging gifts, and sharing special meals. Joyful music plays everywhere, bringing a cozy and cheerful feeling to the holiday season.",
+    "activities": [
+      {
+        "id": 201,
+        "title": "Holiday Story Night",
+        "details": "Pick your favorite winter books and read them together under the Christmas tree while sipping warm cocoa. A cozy moment for everyone! 📚✨",
+        "image": "story"
+      },
+      {
+        "id": 202,
+        "title": "Snowflake Window Art",
+        "details": "Cut paper snowflakes in different patterns and tape them to windows to make your home feel like a winter wonderland.",
+        "image": "snowflake"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Easter",
+    "image": "easter",
+    "about": "Easter is a bright and colorful celebration of springtime. Families gather for brunch, decorate their homes with pastel colors, and enjoy outdoor fun together. Flowers bloom, birds sing, and the season feels full of new beginnings and happiness.",
+    "activities": [
+      {
+        "id": 301,
+        "title": "Bunny Mask Making",
+        "details": "Create bunny ears from paper or cardboard, color them, and attach them to a headband. Hop around like a cheerful Easter bunny! 🐰",
+        "image": "bunnyears"
+      },
+      {
+        "id": 302,
+        "title": "Spring Nature Walk",
+        "details": "Stroll outside and look for signs of spring—flowers, butterflies, or chirping birds. Take photos or draw what you discover!",
+        "image": "naturewalk"
+      }
+    ]
+  }
+]
+
